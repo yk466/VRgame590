@@ -1,0 +1,28 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uilds/
+/[Ll]ogs/
+
+# Visual Studio and other IDE files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# Large generated assets (example)
+*.LightingData.asset
+
+# Optional: Asset Store packages (if you prefer to manage them locally)
+# /[Aa]sset[Ss]tore/[Dd]ownloads/
